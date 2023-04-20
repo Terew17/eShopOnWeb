@@ -9,7 +9,7 @@ env:
   LOCATION: eastus
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: 64530907-2582-4bcd-94f3-5ed42b49ec3b
-  WEBAPP-NAME: az400-webapp-axa
+  WEBAPP-NAME: az400-webapp-Axa
 
 
 jobs:
